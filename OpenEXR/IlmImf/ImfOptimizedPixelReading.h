@@ -45,6 +45,7 @@
 #include "ImfChannelList.h"
 #include "ImfFrameBuffer.h"
 #include "ImfStringVectorAttribute.h"
+#include <stdint.h>
 
 OPENEXR_IMF_INTERNAL_NAMESPACE_HEADER_ENTER
 
